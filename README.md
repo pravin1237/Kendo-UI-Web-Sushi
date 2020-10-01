@@ -13,6 +13,7 @@ Here is a list of the features that are showcased in the WebSushi sample app:
 - [DataSource](http://docs.telerik.com/kendo-ui/getting-started/framework/datasource/overview)
 - [MVVM](http://docs.telerik.com/kendo-ui/getting-started/framework/mvvm/overview)
 - [ListView Widget](http://docs.telerik.com/kendo-ui/getting-started/web/listview/overview)
+-https://github.com/lohithgn/Kendo-UI-Web-Sushi/commit/8edcfd392cd39de28131255519f92dcb9d475328
 
 ## Running the sample app
 Host the app in a web server. Set Sushi.html as the default document. The data is static and is served by menu.json file placed in data folder.
